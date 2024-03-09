@@ -1,3 +1,8 @@
+## Fork - changes
+added two new flags for pipe redirection, allowing easier incorporation into other scripts/tools for monitoring/displaying info (i.e. custom status bar):
+c - display core info (temp, voltage, frequency & usage)
+o - show the original output but only once
+
 # ryzen_monitor
 Monitor power information of Ryzen processors via the PM table of the SMU.
 

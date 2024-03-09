@@ -724,6 +724,8 @@ void show_help(char *program) {
           "Options:\n"
           "\t-h            - Show this help screen.\n"
           "\t-v            - Show program version.\n"
+          "\t-o            - Show output once.\n"
+          "\t-c            - Show \"core\" information.\n"
           "\t-m            - Print DRAM Timings and exit.\n"
           "\t-d            - Show disabled cores.\n"
           "\t-u<seconds>   - Update the monitoring only after this number of "
