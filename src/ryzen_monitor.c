@@ -801,6 +801,7 @@ int main(int argc, char **argv) {
       break;
     case 'o':
       print_once_flag = 1;
+      update_time_s = 0;
       break;
     case '?':
       exit(0);
